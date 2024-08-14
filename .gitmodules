@@ -1,3 +1,6 @@
 [submodule "angular-gpt"]
 	path = angular-gpt
 	url = git@github.com:danielcaamal/angular-gpt.git
+[submodule "nest-gpt"]
+	path = nest-gpt
+	url = git@github.com:danielcaamal/nest-gpt.git
