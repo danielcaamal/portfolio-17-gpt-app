@@ -1,0 +1,3 @@
+[submodule "angular-gpt"]
+	path = angular-gpt
+	url = git@github.com:danielcaamal/angular-gpt.git
